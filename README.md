@@ -1,5 +1,5 @@
 # alx_travel_app
-Objective
+<!-- Objective
 
 Define the database models, create serializers for API data representation, and implement a management command to seed the database.
 
@@ -25,4 +25,4 @@ Repo:
 
 GitHub repository: alx_travel_app_0x00
 Directory: alx_travel_app
-File: listings/models.py, listings/serializers.py, listings/management/commands/seed.py, README.md
+File: listings/models.py, listings/serializers.py, listings/management/commands/seed.py, README.md -->
